@@ -6,7 +6,7 @@ To clone run:
 git clone https://github.com/starlightromero/make-school-linkedin-bot.git
 ```
 
-Navigate to folder then run:
+Navigate to the folder then run:
 ```zsh
 python3 app.py
 ```
